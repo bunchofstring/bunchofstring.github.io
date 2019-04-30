@@ -1,4 +1,4 @@
-![alt text](https://github.com/bunchofstring/bunchofstring.github.io/blob/master/images/feature_1024x500.png "Signal wordmark on dark triangle pattern background")
+![alt text](images/feature_1024x500.png "Signal wordmark on dark triangle pattern background")
 
 # Announcing Signal Drive Communicator
 Effortless driver-to-driver communication - no typing required
