@@ -4,7 +4,7 @@
 Effortless driver-to-driver communication - no typing required
 
 # Early Access
-Signal is currently in private beta testing. The Android app is available _by invitation only_ on Google Play.
+Signal is currently in private beta testing. The Android app is available _by invitation only_ on Google Play. [Request an invitation](https://docs.google.com/forms/d/e/1FAIpQLSf7bEBOxOJfRymO66PzLn7we90oXub-ghfFQO7L43vCpMDjPA/viewform?usp=sf_link).
 
 # What is Signal?
 Finally, you can communicate clearly with the vehicle in the next lane. No need to sign up. Just press the voice button and say your message. Signal understands messages like “headlights on for safety”, “your vehicle is leaking”, and many more! You can even post a local alert like "pothole" or "animal on the road" 🐕
